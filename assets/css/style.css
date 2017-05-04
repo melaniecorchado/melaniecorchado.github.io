@@ -1,10 +1,8 @@
 
 body {
-
 	background-image: url("../images/congruent_pentagon.png");
 	color: #777777;
 	width: 960px;
-
 }
 
 nav {
@@ -16,13 +14,13 @@ nav {
 
 .container {
 	background-color: #ffffff;
+
 }
 
 .main{
 	width: 650px;
 	background-color: #ffffff;
 	padding: 15px;
-
 }
 
 .picture {
@@ -37,7 +35,6 @@ h1 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: white;
 	width: 215px;
-
 }
 
 p {
@@ -51,23 +48,66 @@ h2 {
 }
 
 .sidebar{
+	height: 120px;
+	text-align: center;
 	float:right;
 	background-color: white;
+	width: 270px;
 	}
 
 h3 {
 	color: #4aaaa5;
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	float: right;
+}
 
+.maincontact{
+	width: 650px;
+	padding: 15px;
+	background-color: white;
+}
+
+.portfolio{
+	margin-bottom: 100px;
+	width: 650px;
+	background-color: white;
+	padding: 15px;	
+}
+
+#Hangman{
+	background-color: #4aaaa5;
+	padding: 10px;
+	width: 230px;
+	color: #ffffff;
+}
+
+#RPG{
+	background-color: #4aaaa5;
+	padding: 10px;
+	width: 230px;
+	color: #ffffff;	
+}
+
+#Trivia{
+	background-color: #4aaaa5;
+	padding: 10px;
+	width: 230px;
+	color: #ffffff;
+}
+
+#Rutgers{
+	background-color: #4aaaa5;
+	padding: 10px;
+	width: 230px;
+	color: #ffffff;
 }
 
 footer {
+	margin:0;
 	position: fixed;
 	left: 0;
 	bottom:0;
-	width: 100%;
-	height: 100px;
+	width: 960px;
+	height: 90px;
 	text-align: center;
 	background-color: #666666;
 	color: #ebebeb;
